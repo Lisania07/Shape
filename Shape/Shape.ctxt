@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Shape
+comment1.params=c\ f
+comment1.target=Shape(java.lang.String,\ boolean)
+comment2.params=
+comment2.target=double\ calculateArea()
+comment3.params=
+comment3.target=double\ calculatePerimeter()
+comment4.params=
+comment4.target=void\ displayInfo()
+comment5.params=
+comment5.target=double\ getArea()
+comment6.params=
+comment6.target=boolean\ isFill()
+comment7.params=a
+comment7.target=void\ setArea(int)
+comment8.params=a
+comment8.target=void\ setFill(boolean)
+numComments=9
